@@ -2,12 +2,10 @@
 
 Personal portfolio website of **Muhammad Fahri Rangkuti**, a **Web & App Developer** focused on building modern, functional, responsive, and user-friendly digital solutions.
 
-🌐 **Live Portfolio:**
+**Live Portfolio:**
 https://fahri0007.github.io/fahrii-dev/
 
----
-
-## ✨ About
+## About
 
 Fahri.Dev is my personal portfolio website where I showcase my:
 
@@ -20,11 +18,9 @@ Fahri.Dev is my personal portfolio website where I showcase my:
 * Professional services
 * Experience and activities
 
-The website is designed with a modern, responsive interface to provide a simple and engaging way to explore my work and development journey.
+The website is designed with a modern and responsive interface to provide a simple way to explore my work and development journey.
 
----
-
-## 🛠️ Technologies
+## Technologies
 
 ### Development
 
@@ -54,66 +50,52 @@ The website is designed with a modern, responsive interface to provide a simple 
 * Visual Studio Code
 * XAMPP
 
----
-
-## 💼 Services
+## Services
 
 The portfolio showcases several areas of development services:
 
-* **Website Development**
-* **Mobile App Development**
-* **UI/UX Design**
-* **E-Commerce Development**
-* **Custom Web Application**
-* **Backend & Database Development**
+* Website Development
+* Mobile App Development
+* UI/UX Design
+* E-Commerce Development
+* Custom Web Application
+* Backend & Database Development
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
-
-### 🎵 NadaKita — Music Store & E-Commerce
+### NadaKita — Music Store & E-Commerce
 
 An e-commerce platform for musical instruments with a structured product catalog and modern responsive interface.
 
 **Category:** E-Commerce & Music Store
 
----
-
-### 📦 Peminjaman Barang
+### Peminjaman Barang
 
 A web-based inventory and borrowing management system for managing items, users, borrowing, and return processes.
 
 **Category:** Inventory & Management System
 
----
-
-### 🏢 Sistem Pengelolaan Data Kantor
+### Sistem Pengelolaan Data Kantor
 
 A web-based data management platform designed to simplify data input, searching, and information management.
 
 **Category:** Web App & Data Management
 
----
-
-### 🚆 Sistem Pemesanan Tiket Kereta
+### Sistem Pemesanan Tiket Kereta
 
 A web application for searching travel schedules, selecting trains, entering passenger information, and managing ticket reservations.
 
 **Category:** Transportation & Booking
 
----
-
-## 📱 Responsive Design
+## Responsive Design
 
 The portfolio is designed to provide a consistent experience across:
 
-* 💻 Desktop
-* 📱 Mobile
-* 📟 Tablet
+* Desktop
+* Tablet
+* Mobile
 
----
-
-## 🎨 Design
+## Design
 
 The interface focuses on:
 
@@ -124,9 +106,7 @@ The interface focuses on:
 * User-friendly navigation
 * Developer-focused visual elements
 
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```text
 fahrii-dev/
@@ -139,9 +119,7 @@ fahrii-dev/
 └── README.md
 ```
 
----
-
-## 🚀 Run Locally
+## Run Locally
 
 ### 1. Clone Repository
 
@@ -157,17 +135,13 @@ cd portfolio
 
 Open the project using **Visual Studio Code** and run it with **Live Server**.
 
----
-
-## 🌐 Live Website
+## Live Website
 
 Visit the complete portfolio:
 
-**https://fahri0007.github.io/fahrii-dev/**
+https://fahri0007.github.io/fahrii-dev/
 
----
-
-## 👨‍💻 Author
+## Author
 
 **Muhammad Fahri Rangkuti**
 
@@ -176,12 +150,6 @@ Web & App Developer
 * GitHub: https://github.com/Fahrirp123
 * Portfolio: https://fahri0007.github.io/fahrii-dev/
 
----
-
-## 📄 License
+## License
 
 This project is created for personal portfolio purposes.
-
----
-
-⭐ **Thanks for visiting my portfolio repository!**
