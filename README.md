@@ -147,7 +147,7 @@ https://fahri0007.github.io/fahrii-dev/
 
 Web & App Developer
 
-* GitHub: https://github.com/Fahrirp123
+* GitHub: https://github.com/Fahri0007
 * Portfolio: https://fahri0007.github.io/fahrii-dev/
 
 ## License
