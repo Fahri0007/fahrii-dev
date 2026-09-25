@@ -111,11 +111,13 @@ The interface focuses on:
 ```text
 fahrii-dev/
 ├── assets/
-│   ├── css/
-│   ├── js/
+│   ├── project/
+│   ├── skills/
 │   ├── images/
 │   └── ...
 ├── index.html
+├── script.js
+├── style.css
 └── README.md
 ```
 
@@ -124,7 +126,7 @@ fahrii-dev/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Fahrirp123/portfolio.git
+git clone https://github.com/Fahri0007/portfolio.git
 ```
 
 ### 2. Open Project
